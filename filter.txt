@@ -5,7 +5,6 @@
 !
 ! New Entries here:
 ||trafficmanager.net^
-||events.data.microsoft.com^
 ||haxm.co^
 ! ################
 ||0-02.net^
