@@ -4,7 +4,6 @@
 ! Syntax: AdBlock
 !
 ! New Entries here:
-||trafficmanager.net^
 ||haxm.co^
 ! ################
 ||0-02.net^
