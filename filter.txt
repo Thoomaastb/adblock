@@ -3,6 +3,9 @@
 ! Expires: 1 day
 ! Syntax: AdBlock
 !
+! New Entries here:
+||trafficmanager.net^
+! ################
 ||0-02.net^
 ||000free.us^
 ||000nethost.com^
