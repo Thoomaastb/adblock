@@ -7,7 +7,6 @@
 ||haxm.co^
 ||measure.office.net^
 ||events.data.microsoft.com^
-||akamaiedge.net^
 ! ################
 ||0-02.net^
 ||000free.us^
@@ -47266,7 +47265,4 @@
 ||otelwebtelemetry.com^
 ||otgazfpuso.com^
 ||otherlevels.com^
-||otherofherlittle.info^
-||otherossettlement.com^
-||otherprofit.com^
-||othersonline.com
+||otherofherlittle
