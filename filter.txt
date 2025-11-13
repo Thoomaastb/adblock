@@ -6,9 +6,7 @@
 ! New Entries here:
 ||haxm.co^
 ||measure.office.net^
-!||events.data.microsoft.com^
 ||www.tm.a.prd.aadg.akadns.net^
-!||europe.smartscreen.microsoft.com^
 ||api.powercalc.nl^
 ! ################
 ||0-02.net^
